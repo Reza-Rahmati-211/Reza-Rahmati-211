@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reza-Rahmati-211
 - 👀 I’m interested in programmming, machine learning, finance, and entrepreneurship.
-- 🌱 I’m currently learning various python libraries and trying to do mini programming projects.
-- 💞️ I’m not collaborating on anything for now.
+- 🌱 I’m currently working as a backend programmer and trying to do mini programming projects.
+- 💞️ I’m not collaborating on any open-source project for now.
 - 📫 You can contact me via email @ rezarahmati211@gmail.com
 
 <!---
